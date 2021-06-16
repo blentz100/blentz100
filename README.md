@@ -2,7 +2,8 @@
 
 ## 🔭 I’m currently working on 
 
-Codewars coding challenges.
+Codewars coding challenges. Here is my current status:
+![My Codewarrior Profile Badge](https://www.codewars.com/users/blentz/badges/large)
 
 
 <!--
