@@ -7,7 +7,9 @@ community colleges and universites across the United States. I help front end st
 
 Codewars coding challenges. 
 
-![My Codewarrior Profile Badge](https://www.codewars.com/users/blentz/badges/large) (https://www.codewars.com/users/blentz 'My Honor Badge')
+[![My Codewarrior Profile Badge](https://www.codewars.com/users/blentz/badges/large)] (https://www.codewars.com/users/blentz 'My Honor Badge')
+
+
 
 
 <!--
