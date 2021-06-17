@@ -9,7 +9,6 @@ Codewars coding challenges.
 
 [![Codewars](https://www.codewars.com/users/blentz/badges/large)](https://www.codewars.com/users/blentz 'My Honor Badge')
 
-[![CodeWars](https://www.codewars.com/users/fernaper/badges/large)](https://www.codewars.com/users/fernaper 'My Honor Badge')
 
 
 
