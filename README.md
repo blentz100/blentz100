@@ -13,7 +13,7 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 ## 🔭 I’m currently working on 
 
-Codewars coding challenges. 
+[Codewars coding challenges.] (https://www.codewars.com/users/blentz)
 
 [![Codewars](https://www.codewars.com/users/blentz/badges/large)](https://www.codewars.com/users/blentz 'My Honor Badge')
 
