@@ -8,6 +8,7 @@ community colleges and universites across the United States. I help front end st
 If you are reading this profile there is a good chance you are a bootcamp student. I meet regularly with students to practice and prepare for interview. I've created two repos here that I generally ask students to work on before we meet for a mock interview. Please feel free to clone both repos and customize them for your own particular needs. 
 
 [Interview Questions](https://github.com/blentz100/Interview-Questions)
+
 [Questions to Ask During an Interview](https://github.com/blentz100/Questions-to-Ask-During-an-Interview)
 
 ## 🔭 I’m currently working on 
