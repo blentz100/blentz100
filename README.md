@@ -18,7 +18,7 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 
 
-##- 📫 Best Way to Get in Touch: ...
+## 📫 Best Way to Get in Touch: ...
 
 If you are a Promineo Tech student please send me a direct message on slack. 
 
