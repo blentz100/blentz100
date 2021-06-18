@@ -13,7 +13,7 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 ## 🔭 I’m currently working on 
 
-[Codewars coding challenges.](https://github.com/blentz100/Codewars)
+[Codewars coding challenges](https://github.com/blentz100/Codewars)
 
 
 
