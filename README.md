@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm currently the Director of Student Services at Promineo Tech. We are a small but rapidly growing Education as a Service Provider that partners with
-community colleges and universites across the United States. I help front end students with Javascript, React, HTML, CSS and Git. I help our graduates land their first jobs in the technology industry. If you want help with your job search don't hesitate to reach out - I help with resumes, cover letters, portfolio projects and overall strategy.
+community colleges and universites across the United States. I help front end students with Javascript, React, HTML, CSS and Git. I help our graduates land their first jobs in the technology industry. If you want help with your job search don't hesitate to reach out - I help with resumes, cover letters, portfolio projects and overall strategy. I'll be contuining to add resources here to help students learn coding. 
 
 ## 💬 Resources for Bootcamp Students
 
@@ -18,7 +18,9 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 
 
+##- 📫 Best Way to Get in Touch: ...
 
+If you are a Promineo Tech student please send me a direct message on slack. 
 
 
 <!--
@@ -30,7 +32,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
