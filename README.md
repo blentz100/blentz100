@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 
 
 I'm currently the Director of Student Services at Promineo Tech. We are a small but rapidly growing Education as a Service Provider that partners with
 community colleges and universites across the United States. I mentor students who are learning Javascript, React, HTML, CSS and Git. I support our graduates who are working to land their first jobs in the technology industry. If you are actively looking for your first job as a software developer, don't hesitate to reach out for help.
