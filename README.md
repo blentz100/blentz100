@@ -3,7 +3,7 @@
 I'm currently the Director of Student Services at Promineo Tech. We are a small but rapidly growing Education as a Service Provider that partners with
 community colleges and universites across the United States. I mentor students who are learning Javascript, React, HTML, CSS and Git. I support our graduates who are working to land their first jobs in the technology industry. If you are actively looking for your first job as a software developer, don't hesitate to reach out for help.
 
-## 💬 Resources for Bootcamp Students
+## 📚Resources for Bootcamp Students  
 
 If you are reading this profile there is a good chance you are a bootcamp student. I meet regularly with students to practice and prepare for interviews. Writing out answers to these questions will help you feel much more confident going into interview. Please feel free to clone both repos and customize them for your own particular needs. 
 
