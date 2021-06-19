@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 I'm currently the Director of Student Services at Promineo Tech. We are a small but rapidly growing Education as a Service Provider that partners with
-community colleges and universites across the United States. I help front end students with Javascript, React, HTML, CSS and Git. I help our graduates land their first jobs in the technology industry. If you want help with your job search don't hesitate to reach out - I help with resumes, cover letters, portfolio projects and overall strategy. I'll be contuining to add resources here to help students learn coding. 
+community colleges and universites across the United States. I mentor students who are learning Javascript, React, HTML, CSS and Git. I support our graduates who are working to land their first jobs in the technology industry. If you are actively looking for your first job as a software developer, don't hesitate to reach out for help.
 
 ## 💬 Resources for Bootcamp Students
 
-If you are reading this profile there is a good chance you are a bootcamp student. I meet regularly with students to practice and prepare for interview. I've created two repos here that I generally ask students to work on before we meet for a mock interview. Please feel free to clone both repos and customize them for your own particular needs. 
+If you are reading this profile there is a good chance you are a bootcamp student. I meet regularly with students to practice and prepare for interviews. Writing out answers to these questions will help you feel much more confident going into interview. Please feel free to clone both repos and customize them for your own particular needs. 
 
 [Interview Questions](https://github.com/blentz100/Interview-Questions)
 
@@ -20,7 +20,7 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 ## 📫 Best Way to Get in Touch: ...
 
-If you are a Promineo Tech student please send me a direct message on slack. 
+If you are a Promineo Tech student please send me a direct message on slack. Otherwise send an email. 
 
 
 <!--
