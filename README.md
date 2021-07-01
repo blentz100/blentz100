@@ -15,6 +15,8 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 [Codewars coding challenges](https://github.com/blentz100/Codewars)
 
+[Missing Semester Course](https://github.com/blentz100/missing-semester-solutions)
+
 
 
 
