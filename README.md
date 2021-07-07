@@ -15,7 +15,8 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 [Codewars coding challenges](https://github.com/blentz100/Codewars)
 
-[Missing Semester Course](https://github.com/blentz100/missing-semester-solutions)
+[Missing Semester Course](https://github.com/blentz100/missing-semester-solutions) 
+Currently working through the problem set for Version Control/git to gain a deeper understanding of git. I'm taking notes in the repo if you'd like to see them. 
 
 
 
