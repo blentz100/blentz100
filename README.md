@@ -13,9 +13,9 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 ## 🔭 I’m currently working on 
 
-Practicing [Codewars],(https://github.com/blentz100/Codewars) [Leetcode](https://github.com/blentz100/leetcode-solutions), and [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) 
+Practicing [Codewars](https://github.com/blentz100/Codewars), [Leetcode](https://github.com/blentz100/leetcode-solutions), and [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) 
 
-I do about one a day a post the solution to one of the repos above. If you are learning to code, try to get in a habit of doing one coding challenge a day. Follow me if you would like to see what challenges I'm working on. 
+I do about one a day a post the solution to one of the repos above. If you are learning to code, try to get in a habit of doing one coding challenge a day. Follow me to see updates to the challenges I'm working on. 
 
 
 ## 📫 Best Way to Get in Touch: ...
