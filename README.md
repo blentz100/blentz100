@@ -22,6 +22,10 @@ I do about one a day a post the solution to one of the repos above. If you are l
 
 If you are a Promineo Tech student please send me a direct message on slack. Otherwise send an email. 
 
+## 🧮 Stats 
+[![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=blentz100&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blentz100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **blentz100/blentz100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +40,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
