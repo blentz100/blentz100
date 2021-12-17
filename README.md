@@ -13,9 +13,23 @@ If you are reading this profile there is a good chance you are a bootcamp studen
 
 ## 🔭 I’m currently working on 
 
-Practicing [Codewars](https://github.com/blentz100/Codewars), [Leetcode](https://github.com/blentz100/leetcode-solutions), and [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) (currently the Basic Data Structures section)
+Practicing [Codewars](https://github.com/blentz100/Codewars), [Leetcode](https://github.com/blentz100/leetcode-solutions), and [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) 
 
-I do about one a day and push the solution to one of the repos above. If you are learning to code, get in a habit of doing one challenge a day. Follow me to get updates to the challenges I'm working on. 
+I do about one a day and push the solution to one of the repos above. Most (but not all) are relatively easy for me to complete. The benefits are: reinforcing concepts I've learned before, getting really good at git and github, an excuse to learn markdown, and I'm always finding ways to optimize my workflow through some scripting.  If you are learning to code, I highly recommend you get into the habit of doing one challenge or writing some code every day and committing it. 
+ 
+| module | status |
+| --- | --- |
+| Basic Javascript | completed - don't have the exact date |
+| Regular Expressions | completed 12/8/21 |
+| Debugging | completed 12/7/21 |
+| Basic Data Structures | completed 12/17/21 |
+| Basic Algorithm Scripting | in progress |
+| Object Oriented Programming |  |
+| Intermediate Algorithm Scripting |  |
+| Javascript Algorithm and Data Structure Projects |  |
+
+
+
 
 
 ## 📫 Best Way to Get in Touch: ...
