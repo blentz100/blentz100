@@ -19,7 +19,7 @@ I do about one a day and push the solution to one of the repos above. Most (but 
  
 | module | status |
 | --- | --- |
-| Basic Javascript | completed - don't have the exact date |
+| Basic Javascript | completed 1/18/21 |
 | Regular Expressions | completed 12/8/21 |
 | Debugging | completed 12/7/21 |
 | Basic Data Structures | completed 12/17/21 |
