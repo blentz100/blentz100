@@ -5,11 +5,7 @@ community colleges and universites across the United States. I mentor students w
 
 ## 📚Resources for Bootcamp Students  
 
-If you are reading this profile there is a good chance you are a bootcamp student. I meet regularly with students to practice and prepare for interviews. Writing out answers to these questions will help you feel much more confident going into interview. Please feel free to clone both repos and customize them for your own particular needs. 
-
-[Interview Questions](https://github.com/blentz100/Interview-Questions)
-
-[Questions to Ask During an Interview](https://github.com/blentz100/Questions-to-Ask-During-an-Interview)
+If you are reading this profile, there is a good chance you are a bootcamp student. Checkout this list of [resources](https://github.com/blentz100/Resources-for-Bootcamp-Students) to help you with git, github, coding challenges, interview prep and more. 
 
 ## 🔭 I’m currently working on 
 
