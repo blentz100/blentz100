@@ -19,8 +19,8 @@ I do about one a day and push the solution to one of the repos above. Most (but 
 | Regular Expressions | completed 12/8/21 |
 | Debugging | completed 12/7/21 |
 | Basic Data Structures | completed 12/17/21 |
-| Basic Algorithm Scripting | in progress |
-| Object Oriented Programming |  |
+| Basic Algorithm Scripting | completed 1/1/22 |
+| Object Oriented Programming | in progress |
 | Intermediate Algorithm Scripting |  |
 | Javascript Algorithm and Data Structure Projects |  |
 
