@@ -15,14 +15,14 @@ I do about one a day and push the solution to one of the repos above. Most (but 
  
 | module | status |
 | --- | --- |
-| Basic Javascript | completed 1/18/21 |
-| Regular Expressions | completed 12/8/21 |
-| Debugging | completed 12/7/21 |
-| Basic Data Structures | completed 12/17/21 |
-| Basic Algorithm Scripting | completed 1/1/22 |
-| Object Oriented Programming | in progress |
-| Intermediate Algorithm Scripting |  |
-| Javascript Algorithm and Data Structure Projects |  |
+| [Basic Javascript](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript) | completed 1/18/21 |
+| [Regular Expressions](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Regular%20Expressions) | completed 12/8/21 |
+| [Debugging](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Debugging_) | completed 12/7/21 |
+| [Basic Data Structures](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Data%20Structures) | completed 12/17/21 |
+| [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | completed 1/1/22 |
+| [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | in progress |
+| [Intermediate Algorithm Scripting] |  |
+| [Javascript Algorithm and Data Structure Projects] |  |
 
 
 
