@@ -20,7 +20,7 @@ I do about one a day and push the solution to one of the repos above. Most (but 
 | [Debugging](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Debugging) | completed 12/7/21 |
 | [Basic Data Structures](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Data%20Structures) | completed 12/17/21 |
 | [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | completed 1/1/22 |
-| [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | in progress |
+| [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | 50% |
 | [Intermediate Algorithm Scripting] |  |
 | [Javascript Algorithm and Data Structure Projects] |  |
 
