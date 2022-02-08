@@ -13,17 +13,17 @@ Practicing [Codewars](https://github.com/blentz100/Codewars), [Leetcode](https:/
 
 I do about one a day and push the solution to one of the repos above. Most (but not all) are relatively easy for me to complete. The benefits are: reinforcing concepts I've learned before, getting really good at git and github, an excuse to learn markdown, and I'm always finding ways to optimize my workflow through some scripting.  If you are learning to code, I highly recommend you get into the habit of doing one challenge or writing some code every day and committing it. 
  
-| module | status |
-| --- | --- |
-| [Basic Javascript](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript) | completed 1/18/21 |
-| [Regular Expressions](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Regular%20Expressions) | completed 12/8/21 |
-| [Debugging](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Debugging) | completed 12/7/21 |
-| [Basic Data Structures](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Data%20Structures) | completed 12/17/21 |
-| [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | completed 1/1/22 |
-| [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | completed 1/14/22 |
-| [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) | 96% |
-| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 14% |
-| [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 0% |
+| module | progress | notes
+| --- | --- | --- 
+| [Basic Javascript](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Javascript) | 100%  | completed 1/18/21 |
+| [Regular Expressions](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Regular%20Expressions) | 100%  | completed 12/8/21 |
+| [Debugging](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Debugging) | 100%  | completed 12/7/21 |
+| [Basic Data Structures](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Data%20Structures) | 100% | completed 12/17/21 |
+| [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | 100%  | completed 1/1/22 |
+| [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | 100% | completed 1/14/22 |
+| [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) | 100%  | completed 2/8/22 |
+| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 14% | |
+| [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 0% | |
 
 
 
