@@ -26,7 +26,17 @@ I do about one a day and push the solution to one of the repos above. Most (but 
 | [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 0% | |
 
 
+## Learning Pipeline
 
+### February 2022  
+Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+### March 2022 
+Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
+https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
+
+### April 2022
+EdX - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 
 
 ## 📫 Best Way to Get in Touch: ...
