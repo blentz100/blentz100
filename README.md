@@ -9,9 +9,8 @@ If you are reading this profile, there is a good chance you are a bootcamp stude
 
 ## 🔭 I’m currently working on 
 
-Practicing [Codewars](https://github.com/blentz100/Codewars), [Leetcode](https://github.com/blentz100/leetcode-solutions), and [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) 
+Javascript Algorithms and Data Structures at [freecodecamp](https://github.com/blentz100/freecodecamp-solutions) 
 
-I do about one a day and push the solution to one of the repos above. Most (but not all) are relatively easy for me to complete. The benefits are: reinforcing concepts I've learned before, getting really good at git and github, an excuse to learn markdown, and I'm always finding ways to optimize my workflow through some scripting.  If you are learning to code, I highly recommend you get into the habit of doing one challenge or writing some code every day and committing it. 
  
 | module | progress | notes
 | --- | --- | --- 
@@ -22,7 +21,7 @@ I do about one a day and push the solution to one of the repos above. Most (but 
 | [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | 100%  | completed 1/1/22 |
 | [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | 100% | completed 1/14/22 |
 | [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) | 100%  | completed 2/8/22 |
-| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 24% | |
+| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 29% | |
 | [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 0% | |
 
 
