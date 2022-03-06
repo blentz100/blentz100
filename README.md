@@ -21,7 +21,7 @@ Javascript Algorithms and Data Structures at [freecodecamp](https://github.com/b
 | [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | 100%  | completed 1/1/22 |
 | [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | 100% | completed 1/14/22 |
 | [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) | 100%  | completed 2/8/22 |
-| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 52% | |
+| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 57% | |
 | [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 0% | |
 
 
@@ -30,17 +30,17 @@ Javascript Algorithms and Data Structures at [freecodecamp](https://github.com/b
 ### February 2022  
 Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-### March 2022 
+## March 2022  
+Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+
+### April 2022 
 Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
 https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
 
-### April 2022
+### May 2022
 EdX - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 
 
-## 📫 Best Way to Get in Touch: ...
-
-If you are a Promineo Tech student please send me a direct message on slack. Otherwise send an email. 
 
 ## 🧮 Stats 
 [![Brendan's GitHub stats](https://github-readme-stats.vercel.app/api?username=blentz100&count_private=true&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
