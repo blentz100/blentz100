@@ -34,7 +34,7 @@ Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freec
 Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 ### April 2022 
-Freecodecamp.org (only 2 more problems to go!) - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+Freecodecamp.org (Done!) - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
 https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
