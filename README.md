@@ -21,8 +21,8 @@ Javascript Algorithms and Data Structures at [freecodecamp](https://github.com/b
 | [Basic Algorithm Scripting](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Basic%20Algorithm%20Scripting) | 100%  | completed 1/1/22 |
 | [Object Oriented Programming](https://github.com/blentz100/freecodecamp-solutions/tree/main/Javascript%20Algorithms%20and%20Data%20Structures/Object%20Oriented%20Programming) | 100% | completed 1/14/22 |
 | [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#functional-programming) | 100%  | completed 2/8/22 |
-| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 95% | 1 more to go |
-| [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 100% | completed 4/13/22! |
+| [Intermediate Algorithm Scripting](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting) | 100% | completed 4/18/22 |
+| [Javascript Algorithm and Data Structure Projects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#javascript-algorithms-and-data-structures-projects) | 100% | completed 4/13/22 |
 
 
 ## Learning Pipeline
