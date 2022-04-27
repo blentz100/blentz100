@@ -7,7 +7,7 @@ community colleges and universites across the United States. I mentor students w
 
 If you are reading this profile, there is a good chance you are a bootcamp student. Checkout this list of [resources](https://github.com/blentz100/Resources-for-Bootcamp-Students) to help you with git, github, coding challenges, interview prep and more. 
 
-## 🔭 I’m currently working on 
+## 🌱 I’m currently working on 
 
 Front End Development Libraries at [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries) 
 &
@@ -26,21 +26,21 @@ Adobe Experience Manager
 
 
 
-## My Learning Calendar
+##  📆 My Learning Calendar 2022
 
-## February 2022  
+### February 
 Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-## March 2022  
+### March   
 Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
-### April 2022 
+### April  
 Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 
 Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
 https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
 
-### May 2022
+### May 
 
 Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
 https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
@@ -48,8 +48,22 @@ https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started
 Freecodecamp.org - [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries)
 
 
-### June 2022
+### June 
 EdX - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
+
+### July 
+
+Open to suggestions for future learning feel free to open an issue and recommend something
+
+### August 
+
+### September 
+
+### October
+
+### November
+
+### December 
 
 
 
