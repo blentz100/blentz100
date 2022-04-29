@@ -29,13 +29,13 @@ Adobe Experience Manager
 ##  📆 My Learning Calendar 2022
 
 ### February 
-Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) ✅ Done
+✅ Done Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
 
 ### March   
-Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) ✅ Done
+✅ Done Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
 
 ### April  
-Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) ✅ Done
+✅ Done Freecodecamp.org - [Javascript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) 
 
 Adobe Experience Manager - [Getting Started with AEM Sites - WKND Tutorial](
 https://experienceleague.adobe.com/docs/experience-manager-learn/getting-started-wknd-tutorial-develop/overview.html?lang=en)
