@@ -15,7 +15,7 @@ Adobe Experience Manager
 
 | module | progress | notes
 | --- | --- | --- 
-| Bootstrap | 55% | |
+| Bootstrap | 68% | |
 | Jquery | | |
 | SASS |  | |
 | React |  |  
