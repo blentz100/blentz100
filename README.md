@@ -15,10 +15,10 @@ Adobe Experience Manager
 
 | module | progress | notes
 | --- | --- | --- 
-| Bootstrap | 77% | |
+| Bootstrap | 100% | |
 | Jquery | | |
 | SASS |  | |
-| React |  |  
+| React | 100% |  
 | Redux |   |  |
 | React and Redux| |  |
 | Front End Development Libraries Projects |   |  |
