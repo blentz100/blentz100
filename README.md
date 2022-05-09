@@ -17,7 +17,7 @@ Adobe Experience Manager
 | --- | --- | --- 
 | Bootstrap | 100% | |
 | Jquery | 100% | |
-| SASS | 0% | |
+| SASS | 44% | |
 | React | 100% |  
 | Redux |   |  |
 | React and Redux| |  |
