@@ -1,13 +1,19 @@
 ## 👋 Hi there 
 
-I'm currently the Director of Student Services at Promineo Tech. We are a small but rapidly growing Education as a Service Provider that partners with
-community colleges and universites across the United States. I mentor students who are learning Javascript, React, HTML, CSS and Git. I support our graduates who are working to land their first jobs in the technology industry. If you are actively looking for your first job as a software developer, don't hesitate to reach out for help.
+I'm currently working as a software engineer at Operational Systems Inc.
+
+Previously I was the Director of Student Services at Promineo Tech. Promineo is a coding bootcamp that partners with
+community colleges and universites across the United States. I mentored students who were learning Javascript, React, HTML, CSS and Git.
 
 ## 📚Resources for Bootcamp Students  
 
 If you are reading this profile, there is a good chance you are a bootcamp student. Checkout this list of [resources](https://github.com/blentz100/Resources-for-Bootcamp-Students) to help you with git, github, coding challenges, interview prep and more. 
 
 ## 🌱 I’m currently working on 
+
+Expanding my knowledge of Typescript and React. 
+
+Previously I was focused on:
 
 Front End Development Libraries at [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries) 
 &
