@@ -30,7 +30,9 @@ Adobe Experience Manager
 | Front End Development Libraries Projects |   |  |
 
 
+##  📆 My Learning Calendar 2023
 
+[React Course](https://ui.dev/c/react) (the best course I've ever taken by far) course over at ui.dev.
 
 ##  📆 My Learning Calendar 2022
 
@@ -57,19 +59,7 @@ Freecodecamp.org - [Front End Development Libraries](https://www.freecodecamp.or
 ### June 
 EdX - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 
-### July 
 
-Open to suggestions for future learning feel free to open an issue and recommend something
-
-### August 
-
-### September 
-
-### October
-
-### November
-
-### December 
 
 
 
