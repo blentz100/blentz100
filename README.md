@@ -1,9 +1,7 @@
 ## 👋 Hi there 
 
-I'm currently working as a software engineer at Operational Systems Inc.
+I'm currently working as a software engineer at Operational Systems Inc. I focus on writing new features for our clients utilizing JavaScript, TypeScript, React, PHP.
 
-Previously I was the Director of Student Services at Promineo Tech. Promineo is a coding bootcamp that partners with
-community colleges and universites across the United States. I mentored students who were learning Javascript, React, HTML, CSS and Git.
 
 ## 📚Resources for Bootcamp Students  
 
@@ -13,26 +11,11 @@ If you are reading this profile, there is a good chance you are a bootcamp stude
 
 Expanding my knowledge of Typescript and React. 
 
-Previously I was focused on:
 
-Front End Development Libraries at [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries) 
-&
-Adobe Experience Manager 
+##  📆 My Learning Calendar 2023 and 2024
 
-| module | progress | notes
-| --- | --- | --- 
-| Bootstrap | 100% | |
-| Jquery | 100% | |
-| SASS | 100% | |
-| React | 100% |  
-| Redux |   |  |
-| React and Redux| |  |
-| Front End Development Libraries Projects |   |  |
-
-
-##  📆 My Learning Calendar 2023
-
-[React Course](https://ui.dev/c/react) (the best course I've ever taken by far) course over at ui.dev.
+Working through the courses at UI.dev. My main focus is on their React.gg course, but I dive into some of the other courses to supplement what I'm doing at work.
+The React.gg course is by far the course I've taken. It's a mashup of the Fireship Youtube Channel and the freecodecamp.org coding challenges.
 
 ##  📆 My Learning Calendar 2022
 
@@ -59,6 +42,17 @@ Freecodecamp.org - [Front End Development Libraries](https://www.freecodecamp.or
 ### June 
 EdX - [Introduction to Web Accessibility](https://www.edx.org/course/web-accessibility-introduction)
 
+Front End Development Libraries at [freecodecamp](https://www.freecodecamp.org/learn/front-end-development-libraries) 
+
+| module | progress | notes
+| --- | --- | --- 
+| Bootstrap | 100% | |
+| Jquery | 100% | |
+| SASS | 100% | |
+| React | 100% |  
+| Redux |   |  |
+| React and Redux| |  |
+| Front End Development Libraries Projects |   |  |
 
 
 
